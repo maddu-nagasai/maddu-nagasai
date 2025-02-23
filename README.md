@@ -1,5 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=40&pause=100&speed=50&color=F7F7F7&background=000000&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Nagasai;And+I+Welcome+You+To+My+Github%F0%9F%98%8A" alt="Typing SVG" /></a>
-[![](https://visitcount.itsvg.in/api?id=nagasai&icon=2&color=10)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=40&pause=10&speed=5&color=F7F7F7&background=30AADD00&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Nagasai;And+i+Welcome+You+To+My+GitHub!%F0%9F%98%8A" alt="Typing SVG" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animator/main/assets/banner.gif" width="100%">
+</div>
 
 <h3 align="center">A passionate Full Stack Web Developer </h3>
 
