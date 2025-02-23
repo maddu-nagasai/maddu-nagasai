@@ -1,3 +1,12 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Display&weight=200&size=30&pause=1000&color=F7F7F7&background=0057D9C5&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hi%F0%9F%91%8B;I'm+Nagasai" alt="Typing SVG" /></a>
+[![](https://visitcount.itsvg.in/api?id=nagasai&icon=2&color=12)](https://visitcount.itsvg.in)
+
+<h3 align="center">A passionate Android and Web Developer </h3>
+
+<br/>
+
+<div align="center">
+ :book: I’m currently pursued B.tech 4th year, CSE specialization in **artificial intelligence and data science**</br>
 # 💫 About Me:
 🔭 I’m currently working on: Websites Developing.<br>👯 I’m looking to collaborate on: MERN stack and Python projects.<br>🌱 I’m currently learning:  Opportunities to contribute to open-source projects.<br>💬 Ask me about: Python, web development, Databases, Version Controls,...Anything.<br>⚡ Fun fact: I break things just to see how they work—then Google how to fix them. 🔧
 
