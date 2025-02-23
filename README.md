@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Display&weight=200&size=30&pause=100&speed=50&color=F7F7F7&background=000000&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Nagasai;And+I+Welcome+You+To+My+Github%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=caveat&weight=700&size=40&pause=100&speed=50&color=F7F7F7&background=000000&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Nagasai;And+I+Welcome+You+To+My+Github%F0%9F%98%8A" alt="Typing SVG" /></a>
 [![](https://visitcount.itsvg.in/api?id=nagasai&icon=2&color=10)](https://visitcount.itsvg.in)
 
 <h3 align="center">A passionate Full Stack Web Developer </h3>
@@ -7,7 +7,7 @@
 
 <div align="center">
  :book: I’m currently pursued B.tech 4th year, CSE specialization in <bold>Artificial Intelligence and Data Science</bold></br>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on: Websites Developing.<br>👯 I’m looking to collaborate on: MERN stack and Python projects.<br>🌱 I’m currently learning:  Opportunities to contribute to open-source projects.<br>💬 Ask me about: Python, web development, Databases, Version Controls,...Anything.<br>⚡ Fun fact: I break things just to see how they work—then Google how to fix them. 🔧
 
 
