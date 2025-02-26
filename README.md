@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center"
+<div align="center">
  :book: I’m currently pursued B.tech 4th year, CSE specialization in <bold>Artificial Intelligence and Data Science</bold></br>
 💫 About Me:
 🔭 I’m currently working on: Websites Developing.<br>👯 I’m looking to collaborate on: MERN stack and Python projects.<br>🌱 I’m currently learning:  Opportunities to contribute to open-source projects.<br>💬 Ask me about: Python, web development, Databases, Version Controls,...Anything.<br>⚡ Fun fact: I break things just to see how they work—then Google how to fix them. 🔧
